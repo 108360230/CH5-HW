@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\leo\Desktop\高階程式語言\CH7-HK\108360230_高鈺棋\P15\source\main.c(29,8): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  P15.vcxproj -> C:\Users\leo\Desktop\高階程式語言\CH7-HK\108360230_高鈺棋\P15\P15\Debug\P15.exe
